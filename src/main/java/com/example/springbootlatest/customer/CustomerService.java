@@ -15,7 +15,7 @@ public class CustomerService {
                         1L,
                         "Joe",
                         "Joe@gmail.com",
-                        LocalDate.of(1997, Month.DECEMBER, 06),
+                        LocalDate.of(1997, Month.DECEMBER, 6),
                         24
                 )
         );
